@@ -1,0 +1,16 @@
+/* This is a comment */
+/* Review the CSS syntax:
+
+selectors {
+property: value;
+property: value;
+}
+
+*/
+
+/* Type selector */
+
+p {
+  font-size: 16px;
+  line-height: 1.5em;
+}
